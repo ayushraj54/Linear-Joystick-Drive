@@ -1,0 +1,14 @@
+See file:///C:/Users/Public/wpilib/2020/NitishWorkingMotorTests/SPARK-MAX-Examples-master/C++/Arcade%20Drive%20With%20CAN/build/tmp/compileFrcUserProgramReleaseExecutableFrcUserProgramCpp/output.txt for all output for compileFrcUserProgramReleaseExecutableFrcUserProgramCpp.
+compiling Robot.cpp successful.
+C:\Users\Public\wpilib\2020\NitishWorkingMotorTests\SPARK-MAX-Examples-master\C++\Arcade Drive With CAN\src\main\cpp\Robot.cpp:11:29: warning: extra tokens at end of #include directive
+ #include "rev/CANSparkMax.h"-
+                             ^
+C:\Users\Public\wpilib\2020\NitishWorkingMotorTests\SPARK-MAX-Examples-master\C++\Arcade Drive With CAN\src\main\cpp\Robot.cpp: In member function 'virtual void Robot::TeleopPeriodic()':
+C:\Users\Public\wpilib\2020\NitishWorkingMotorTests\SPARK-MAX-Examples-master\C++\Arcade Drive With CAN\src\main\cpp\Robot.cpp:97:12: warning: unused variable 'leftMotorOutput' [-Wunused-variable]
+     double leftMotorOutput = coefficient * squareX;
+            ^~~~~~~~~~~~~~~
+C:\Users\Public\wpilib\2020\NitishWorkingMotorTests\SPARK-MAX-Examples-master\C++\Arcade Drive With CAN\src\main\cpp\Robot.cpp:98:12: warning: unused variable 'rightMotorOutput' [-Wunused-variable]
+     double rightMotorOutput = coefficient * squareY;
+            ^~~~~~~~~~~~~~~~
+
+Finished compileFrcUserProgramReleaseExecutableFrcUserProgramCpp, see full log file:///C:/Users/Public/wpilib/2020/NitishWorkingMotorTests/SPARK-MAX-Examples-master/C++/Arcade%20Drive%20With%20CAN/build/tmp/compileFrcUserProgramReleaseExecutableFrcUserProgramCpp/output.txt.
